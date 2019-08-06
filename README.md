@@ -18,3 +18,4 @@ cvpr 2018 From Recognition to Cognition: Visual Commonsense Reasoning [[pdf]](ht
 
 acl 2019 COMET: Commonsense Transformersfor Automatic Knowledge Graph Construction [[pdf]](https://arxiv.org/pdf/1906.05317.pdf)
 
+Commonsense Reasoning for Natural Language Understanding: A Survey of Benchmarks, Resources, and Approaches[[pdf]](https://arxiv.org/pdf/1904.01172.pdf)
