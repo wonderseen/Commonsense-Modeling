@@ -2,7 +2,7 @@
 
 a list of papers on commonsense modeling, categorized in threefold or more: 
 
-{ $$\large\.visual,\hspace{3cm}textual,\hspace{3cm}multimodal$$ } -style
+{ *visual*, *textual*, *multimodal* } -style
 
 ## visual-style
 
