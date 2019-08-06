@@ -2,7 +2,7 @@
 
 a list of papers on commonsense modeling, categorized in threefold or more: 
 
-{ ![](http://chart.googleapis.com/chart?cht=tx&chl=\largevisual,\hspace{3cm}textual,\hspace{3cm}multimodal) } -style
+{ ![](http://chart.googleapis.com/chart?cht=tx&chl=\large\.visual,\hspace{3cm}textual,\hspace{3cm}multimodal) } -style
 
 ## visual-style
 
