@@ -6,8 +6,6 @@ a list of papers on commonsense modeling, categorized in threefold or more:
 
 ## visual-style
 
-acl 2019 COMET: Commonsense Transformersfor Automatic Knowledge Graph Construction [[pdf]](https://arxiv.org/pdf/1906.05317.pdf)
-
 cvpr 2018 From Recognition to Cognition: Visual Commonsense Reasoning [[pdf]](https://arxiv.org/pdf/1811.10830.pdf)
 
 emnlp 2018 Swag: A Large-Scale Adversarial Dataset for Grounded Commonsense Inference [[pdf]](https://arxiv.org/pdf/1808.05326.pdf)
@@ -23,3 +21,5 @@ Explain yourself: Leveraging Language Models for Commonsense Reasoning[[pdf]](ht
 ## multimodal-style
 
 cvpr 2018 From Recognition to Cognition: Visual Commonsense Reasoning [[pdf]](https://arxiv.org/pdf/1811.10830.pdf)
+
+emnlp 2018 Swag: A Large-Scale Adversarial Dataset for Grounded Commonsense Inference [[pdf]](https://arxiv.org/pdf/1808.05326.pdf)
