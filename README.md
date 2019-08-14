@@ -12,6 +12,8 @@ a list of papers on commonsense modeling, categorized in threefold or more:
 
 2019 cvpr Answer Them All! Toward Universal Visual Question Answering Models [[pdf]](https://arxiv.org/pdf/1903.00366.pdf)
 
+2019 acl Generated Question Relevant Captions to Aid Visual Question Answering [[pdf]](https://arxiv.org/pdf/1906.00513.pdf)
+
 ## textual-style
 
 2019 acl COMET: Commonsense Transformersfor Automatic Knowledge Graph Construction [[pdf]](https://arxiv.org/pdf/1906.05317.pdf)
