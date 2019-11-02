@@ -37,3 +37,5 @@ Explain yourself: Leveraging Language Models for Commonsense Reasoning [[pdf]](h
 2018 NeurIPS Chain-of-Reasoning-for-Visual-Question-Answering [[pdf]](https://papers.nips.cc/paper/7311-chain-of-reasoning-for-visual-question-answering)
 
 2019 NeurIPS Heterogeneous Graph Learning for Visual Commonsense Reasoning [[pdf]](https://arxiv.org/abs/1910.11475)
+
+2018 SIGKDD R-VQA: Learning Visual Relation Facts with Semantic Attention for Visual Question Answering [[pdf]](https://arxiv.org/abs/1805.09701)
