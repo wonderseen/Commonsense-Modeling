@@ -16,6 +16,8 @@ a list of papers on commonsense modeling, categorized in threefold or more:
 
 2019 CVPR Learning to compose dynamic tree structures for visual contexts [[pdf]](https://arxiv.org/abs/1812.01880)
 
+2016 NAACL Stating the Obvious: Extracting Visual Common Sense Knowledge [[pdf]](http://www.cs.virginia.edu/~vicente/files/naacl2016.pdf)
+
 ## textual-style
 
 2019 ACL COMET: Commonsense Transformersfor Automatic Knowledge Graph Construction [[pdf]](https://arxiv.org/pdf/1906.05317.pdf)
